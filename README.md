@@ -64,4 +64,4 @@ The **HR Dashboard** helps HR managers make better decisions by providing easy-t
 
 ## Contact
 **Ahmed Abdulwahid**  
-- [LinkedIn]([(https://www.linkedin.com/in/ahmed-abdulwahid/)](https://www.linkedin.com/in/ahmed-abdulwahid/))  
+[(https://www.linkedin.com/in/ahmed-abdulwahid/)](https://www.linkedin.com/in/ahmed-abdulwahid/) 
